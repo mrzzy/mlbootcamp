@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# tags
+tags*
+
+# vim sessions
+.session.vim
