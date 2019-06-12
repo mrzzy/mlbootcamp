@@ -19,3 +19,4 @@ x project syllabus
 x practicals
     x practical 1.1
     x practical 1.2
+    - practical 2
