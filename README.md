@@ -47,6 +47,8 @@ python -m jupyter lab
 ```
 4. Profit. You are all set.
 
+> Reminder to use the `mlbootcamp-py3` kernel in Jupyterlab
+
 ## Project Infomation
 ### Project Structure
 - practicals/ - jupyter notebooks for practicals
